@@ -1,0 +1,38 @@
+name: Bug report
+description: Report a reproducible problem in Zynapse.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include passwords, tokens, private notes, exports, account details or personal notifications. Redact screenshots. Report security concerns through the private contact in SUPPORT.md."
+  - type: input
+    id: environment
+    attributes:
+      label: App and device
+      description: App version/build, device model, Android version, language and appearance.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Use invented example data.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Optional redacted screenshots
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I removed passwords, private notes, exports and other sensitive data.
+          required: true

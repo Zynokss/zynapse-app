@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product help and availability
+    url: https://zynapse.zynoks.com/faq
+    about: Read the product FAQ. Never post sensitive information in a public issue.

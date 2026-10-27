@@ -1,0 +1,24 @@
+# Download installers belong in release assets, never Git history.
+*.apk
+*.aab
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.AppImage
+*.deb
+*.rpm
+*.zip
+*.tar*
+*.map
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+node_modules/
+.cache/
+.DS_Store

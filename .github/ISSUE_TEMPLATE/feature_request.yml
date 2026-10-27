@@ -1,0 +1,20 @@
+name: Feature request
+description: Suggest a useful improvement to Zynapse.
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: "Describe the need using invented examples. Do not include passwords, private journal text, exports or personal information."
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do?
+      description: Explain the problem and who it would help.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true
