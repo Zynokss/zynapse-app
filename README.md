@@ -81,7 +81,7 @@ See [backup, restore and uninstall](guides/BACKUP_AND_RESTORE.md) and [troublesh
 
 ## Support and rights
 
-Use [GitHub Issues](https://github.com/Zynokss/zynapse-app/issues) for reproducible bugs and feature requests, or email [support@zynapse.app](mailto:support@zynapse.app), the contact listed in the product. Email delivery has not been independently verified. Never post passwords, tokens, private journal text, exports or personal contact details in an issue.
+Use [GitHub Issues](https://github.com/Zynokss/zynapse-app/issues) for reproducible bugs and feature requests, or email [contact@zynoks.com](mailto:contact@zynoks.com). Never post passwords, tokens, private journal text, exports or personal contact details in an issue.
 
 [Support guide](SUPPORT.md) · [Product privacy policy](https://zynapse.zynoks.com/privacy) · [Product terms](https://zynapse.zynoks.com/terms) · [Rights and credits](RIGHTS.md)
 

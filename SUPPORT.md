@@ -2,7 +2,7 @@
 
 For bugs and feature requests, use [GitHub Issues](https://github.com/Zynokss/zynapse-app/issues). Search existing reports first and use the provided templates.
 
-For a private product enquiry, the published product contact is [support@zynapse.app](mailto:support@zynapse.app). Mailbox delivery and response times have not been verified; no response-time commitment is made.
+For a private product enquiry, email [contact@zynoks.com](mailto:contact@zynoks.com).
 
 Include the app version/build, Android version, device model, language and a short sequence that reproduces the problem. Use invented sample text when describing journal or habit activity.
 
